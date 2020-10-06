@@ -1,0 +1,5 @@
+global.ApiBaseUrl = "https://devportal.albertapayments.com/api/admin/"
+global.token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjQsImlzcyI6Imh0dHBzOlwvXC9kZXZwb3J0YWwuYWxiZXJ0YXBheW1lbnRzLmNvbVwvYXV0aGVudGljYXRlX25ldyIsImlhdCI6MTU5NTQwNDAxMCwiZXhwIjoxNTk3OTk2MDEwLCJuYmYiOjE1OTU0MDQwMTAsImp0aSI6IjdlMGU5ZTVmMjM2MDZhYjlkOGUxOGY0MTY2YWIxNmU2In0.A04tGqJfJEDB4feASj4G5-mCN0f7lM4_v2Fx_d8-UxU"
+global.LOGIN_BASE_URL = "https://devportal.albertapayments.com/"
+global.LOGIN_BASE_URL1 = "https://devportal.albertapayments.com/api/me_new_date_data?token="
+global.LOGIN_BatchIn = "https://devportal.albertapayments.com/api/admin/batch_in?token="
