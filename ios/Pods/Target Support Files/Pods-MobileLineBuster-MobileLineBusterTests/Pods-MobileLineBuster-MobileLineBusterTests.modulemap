@@ -1,0 +1,6 @@
+module Pods_MobileLineBuster_MobileLineBusterTests {
+  umbrella header "Pods-MobileLineBuster-MobileLineBusterTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
